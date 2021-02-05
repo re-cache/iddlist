@@ -1,2 +1,2 @@
 # iddlist
-Interactive Demo Disc List
+GCN Interactive Demo Disc List
