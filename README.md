@@ -23,6 +23,7 @@ https://www.python.org/downloads/
 
  * Run `Start IDDlist browser.bat` after extracting the `.zip`.
 
+
 ## IDDlist To-do
 
 * Title standardization and consistency across US-English, Japanese, and UK-English
@@ -37,4 +38,4 @@ https://www.python.org/downloads/
 * Buttons for flipping between pages in browser for filtering US, EU, Aus, and JP interactive discs by region
  
 **Potential to-do**
-* Provide "fix" files to easily re-enable hidden or inaccessible content back onto menus. 
+* Provide "fix" files to easily re-enable hidden or inaccessible content back onto menus
