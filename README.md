@@ -1,9 +1,9 @@
 ## IDDlist
 **GCN Interactive Demo Disc List**
 
-![iddlist screenshot](assets/iddlist.png)
-
 IDDlist is a catalogue of game demos and trailers for 150+ GameCube demo discs.
+
+![iddlist screenshot](assets/iddlist.png)
 
 A simple html browser is included to assist in searching and sorting through the list.
 
@@ -32,11 +32,10 @@ https://www.python.org/downloads/
 * Accuracy check for title names and BG (background) entries
   * Redump links for discs
   * YouTube links for BGMs
-* Document `integrated.txt` differences and functions
   * List disc intro animation differences
+* Document `integrated.txt` differences and functions
 
 **Requested**
-* Alternate data page with non-romaji Japanese titles
 * Buttons for flipping between pages in browser for filtering US, EU, Aus, and JP interactive discs by region
  
 **Potential to-do**
