@@ -3,11 +3,11 @@
 
 ![iddlist screenshot](assets/iddlist.png)
 
-**Download the latest release here**
+**Download the latest release here.**
 
 https://github.com/re-cache/iddlist/releases
 
-Or directly download the latest `.zip` using this link
+Or directly download the latest `.zip` using this link.
 
 https://github.com/re-cache/iddlist/releases/download/0.61/iddlist_v.61.zip
 
