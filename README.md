@@ -1,7 +1,5 @@
 ## IDDlist
-**GCN Interactive Demo Disc List**
-
-IDDlist is a catalogue of game demos and trailers for 150+ GameCube demo discs.
+**Interactive Demo Disc List is a catalogue of game demos and trailers for 150+ GameCube demo discs.**
 
 ![iddlist screenshot](assets/iddlist.png)
 
