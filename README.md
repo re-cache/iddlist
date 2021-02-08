@@ -22,7 +22,7 @@ https://github.com/re-cache/iddlist/releases/download/0.61/iddlist_v.61.zip
 
 * Install Python if you don't already have it and make sure `Add Python to PATH` is checked.
 
- * https://www.python.org/downloads/
+  * https://www.python.org/downloads/
 
 * Run `Start IDDlist browser.bat` after extracting the `.zip`.
 
@@ -33,7 +33,9 @@ https://github.com/re-cache/iddlist/releases/download/0.61/iddlist_v.61.zip
 * Title standardization for Japanese romaji without using diacritics (Nihon-shiki? Kunrei-shiki?)
 * Accuracy check for title names and BG (background) entries
   * Redump links for discs
-  * YouTube links for BGMs - *added to To-do folder*
+    * Added to To-do folder
+  * YouTube links for BGMs
+    * Added to To-do folder
   * Catalogue disc loading animation differences
 * Document `integrated.txt` differences and functions
 
