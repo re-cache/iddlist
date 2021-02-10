@@ -99,6 +99,16 @@
 		"PEntries": 9,
 		"Previews": "P.N.03, WarioWare, Inc.: Mega Party Games!, The Sims, MLB Slugfest 20-04, HOTCLIPS, Rayman 3: Hoodlum Havoc, Ikaruga, GBA SP, The Legend of Zelda: The Wind Waker"
 	},{
+		"Disc": "Interactive Multi-Game Demo Disc, US Preview",
+		"Date": "May 1 2003",
+		"ID": "D87E01",
+		"BGM": "3-USA",
+		"BG": "gc3",
+		"DEntries": 7,
+		"Demos": "Viewtiful Joe, Tom Clancy's Splinter Cell, Sonic Adventure DX: Director's Cut, WarioWare, Inc.: Mega Microgames! (GBA Multiboot), Dr. Mario (GBA Multiboot), Soulcalibur II, Billy Hatcher and the Giant Egg",
+		"PEntries": 9,
+		"Previews": "Soulcalibur II, The Legend of Zelda: The Wind Waker, Star Wars Rogue Squadron III: Rebel Strike, F-Zero GX, NCAA Football 2004, Madden NFL 2004, Viewtiful Joe, Tom Clancy's Splinter Cell, ESRB Derek Jeter"
+	},{
 		"Disc": "Interactive Multi-Game Demo Disc, US 11",
 		"Date": "July 15 2003",
 		"ID": "D86E01",
@@ -127,7 +137,7 @@
 		"DEntries": 4,
 		"Demos": "Mario Kart: Double Dash!!, Mario Party 5, Go! Go! Hypergrind, Kirby Air Ride",
 		"PEntries": 7,
-		"Previews": "Mario Kart: Double Dash, Final Fantasy Crystal Chronicles, 1080 Avalanche, Star Wars Rogue Squadron III: Rebel Strike, 007 Everything or Nothing, Need for Speed: Underground, Prince of Persia: The Sands of Time"
+		"Previews": "Mario Kart: Double Dash!!, Final Fantasy Crystal Chronicles, 1080 Avalanche, Star Wars Rogue Squadron III: Rebel Strike, 007 Everything or Nothing, Need for Speed: Underground, Prince of Persia: The Sands of Time"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disc, US 14",
 		"Date": "January 1 2004",
@@ -135,7 +145,7 @@
 		"BGM": "4-USA",
 		"BG": "Changing",
 		"DEntries": 4,
-		"Demos": "Custom Robo, Sonic Heroes, Mario Kart: Double Dash, Pokemon Ruby/Sapphire Berry Program Update",
+		"Demos": "Custom Robo, Sonic Heroes, Mario Kart: Double Dash!!, Pokemon Ruby/Sapphire Berry Program Update",
 		"PEntries": 10,
 		"Previews": "Pokemon Colosseum, Metroid: Zero Mission, Final Fantasy Crystal Chronicles, Custom Robo, NFL Street, Need for Speed: Underground, The Sims Bustin’ Out, I-Ninja, Mega Man Anniversary Collection, 007 Everything or Nothing"
 	},{
@@ -145,7 +155,7 @@
 		"BGM": "4-USA",
 		"BG": "Changing",
 		"DEntries": 4,
-		"Demos": "Custom Robo, Sonic Heroes, Mario Kart: Double Dash, Pokemon Ruby/Sapphire Berry Program Update (hidden)",
+		"Demos": "Custom Robo, Sonic Heroes, Mario Kart: Double Dash!!, Pokemon Ruby/Sapphire Berry Program Update (inaccesible from menu)",
 		"PEntries": 13,
 		"Previews": "Pokemon Colosseum, Metal Gear Solid: The Twin Snakes, Tom Clancy's Splinter Cell: Pandora Tomorrow, Killer7, Metroid: Zero Mission, Final Fantasy Crystal Chronicles, Custom Robo, NFL Street, Need for Speed: Underground, The Sims Bustin’ Out, I-Ninja, Mega Man Anniversary Collection, 007 Everything or Nothing"
 	},{
@@ -175,7 +185,7 @@
 		"BGM": "4-USA",
 		"BG": "Slideshow",
 		"DEntries": 6,
-		"Demos": "Pikmin 2, Tom Clancy's Splinter Cell: Pandora Tomorrow, Mario Pinball Land (GBA), Paper Mario: The Thousand-Year Door, Pokemon Ruby/Sapphire Berry Program Update (if GBA present), Mario Pinball Land (GBA) (hidden, incorrect border)",
+		"Demos": "Pikmin 2, Tom Clancy's Splinter Cell: Pandora Tomorrow, Mario Pinball Land (GBA), Paper Mario: The Thousand-Year Door, Pokemon Ruby/Sapphire Berry Program Update (inaccesible from menu), Mario Pinball Land (GBA) (incorrectly-mapped Game Boy Player border)",
 		"PEntries": 12,
 		"Previews": "Donkey Konga, Donkey Kong Jungle Beat, WWE Day of Reckoning, Tales of Symphonia, Paper Mario: The Thousand-Year Door, Pikmin 2, Madden NFL 2005, NCAA Football 2005, Tiger Woods PGA Tour 2005, Shark Tale, Mega Man X: Command Mission, ESRB 2"
 	},{
@@ -405,14 +415,14 @@
 		"BGM": "1-World",
 		"BG": "Metroid Prime",
 		"DEntries": 2,
-		"Demos": "Metroid Prime (v1.101), Super Monkey Ball 2",
+		"Demos": "Metroid Prime (v1.101) (Metroid1.pak.contents.txt), Super Monkey Ball 2",
 		"PEntries": 5,
 		"Previews": "Rayman 3: Hoodlum Havoc, Metroid Prime, The Legend of Zelda: The Wind Waker, Rayman 3: Hoodlum Havoc (GBA), Phantasy Star Online Episode I & II Plus"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 7",
 		"Date": "April 2003",
 		"ID": "D93P01",
-		"BGM": "1-PAL (Zelda remix of World)",
+		"BGM": "2-PAL (weird Zelda remix)",
 		"BG": "The Legend of Zelda: The Wind Waker",
 		"DEntries": 4,
 		"Demos": "The Legend of Zelda: The Wind Waker, Rayman 3: Hoodlum Havoc, NEWS, LIBRARY",
@@ -424,8 +434,8 @@
 		"ID": "D92P01",
 		"BGM": "1-World",
 		"BG": "Wario World",
-		"DEntries": 6,
-		"Demos": "Wario World, Sonic Adventure DX: Director's Cut, Tom Clancy's Splinter Cell, ?at endoflist, NEWS, LIBRARY",
+		"DEntries": 5,
+		"Demos": "Wario World, Sonic Adventure DX: Director's Cut, Tom Clancy's Splinter Cell, NEWS, LIBRARY",
 		"PEntries": 4,
 		"Previews": "Game Boy Player, Mario Golf: Toadstool Tour, Sonic Adventure DX: Director's Cut, Wario World"
 	},{
@@ -445,7 +455,7 @@
 		"BGM": "Mario Kart: Double Dash!!",
 		"BG": "Mario Kart: Double Dash!! Movie",
 		"DEntries": 6,
-		"Demos": "Mario Kart: Double Dash, Billy Hatcher and the Giant Egg, 1080 Avalanche, Mario Party 5, NEWS, LIBRARY",
+		"Demos": "Mario Kart: Double Dash!!, Billy Hatcher and the Giant Egg, 1080 Avalanche, Mario Party 5, NEWS, LIBRARY",
 		"PEntries": 4,
 		"Previews": "Mario Kart: Double Dash!!, Billy Hatcher and the Giant Egg, 1080 Avalanche, Mario Party 5"
 	},{
@@ -454,30 +464,30 @@
 		"ID": "D87P01",
 		"BGM": "Final Fantasy Crystal Chronicles (“Thoroughly Blue” / “Endless Sky”)",
 		"BG": "Final Fantasy Crystal Chronicles w/Movies",
-		"DEntries": 2,
-		"Demos": "Mario Golf: Toadstool Tour, Mario Kart: Double Dash",
-		"PEntries": 11,
-		"Previews": "Final Fantasy Crystal Chronicles, Metal Gear Solid: The Twin Snakes, Kirby Air Ride, 007 Everything or Nothing, XIII, Phantasy Star Online Episode III: C.A.R.D. Revolution, Sonic Heroes, Beyond Good & Evil, Prince of Persia: The Sands of Time, News, Player’s Choice"
+		"DEntries": 4,
+		"Demos": "Mario Golf: Toadstool Tour, Mario Kart: Double Dash!!, News, Player’s Choice",
+		"PEntries": 9,
+		"Previews": "Final Fantasy Crystal Chronicles, Metal Gear Solid: The Twin Snakes, Kirby Air Ride, 007 Everything or Nothing, XIII, Phantasy Star Online Episode III: C.A.R.D. Revolution, Sonic Heroes, Beyond Good & Evil, Prince of Persia: The Sands of Time"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 12",
 		"Date": "May 2004",
 		"ID": "D86P01",
 		"BGM": "Pokemon Colosseum",
 		"BG": "Pokemon Colosseum w/Movie",
-		"DEntries": 2,
-		"Demos": "Pokemon Colosseum, Mario Golf: Toadstool Tour",
-		"PEntries": 8,
-		"Previews": "007 Everything or Nothing, Phantasy Star Online Episode III: C.A.R.D. Revolution, Player’s Choice, Metal Gear Solid: The Twin Snakes, Tom Clancy's Splinter Cell: Pandora Tomorrow, Harry Potter and the Prisoner of Azkaban, Pokemon Colosseum, Mario Golf: Toadstool Tour"
+		"DEntries": 3,
+		"Demos": "Pokemon Colosseum, Mario Golf: Toadstool Tour, Player’s Choice",
+		"PEntries": 7,
+		"Previews": "007 Everything or Nothing, Phantasy Star Online Episode III: C.A.R.D. Revolution, Metal Gear Solid: The Twin Snakes, Tom Clancy's Splinter Cell: Pandora Tomorrow, Harry Potter and the Prisoner of Azkaban, Pokemon Colosseum, Mario Golf: Toadstool Tour"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 13",
 		"Date": "July 2004",
 		"ID": "D85P01",
 		"BGM": "Mario Golf: Toadstool Tour",
 		"BG": "Mario Golf: Toadstool Tour w/Movie",
-		"DEntries": 2,
-		"Demos": "Mario Golf: Toadstool Tour, Donkey Konga (if bongos)",
-		"PEntries": 8,
-		"Previews": "Player’s Choice, NEWS, Donkey Konga, Mario Golf: Toadstool Tour, Harry Potter and the Prisoner of Azkaban, Pikmin 2, WarioWare, Inc.: Mega Party Games!, Animal Crossing"
+		"DEntries": 4,
+		"Demos": "Mario Golf: Toadstool Tour, Donkey Konga (if bongos), Player’s Choice, News",
+		"PEntries": 6,
+		"Previews": "Donkey Konga, Mario Golf: Toadstool Tour, Harry Potter and the Prisoner of Azkaban, Pikmin 2, WarioWare, Inc.: Mega Party Games!, Animal Crossing"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 14",
 		"Date": "November 2004",
@@ -485,7 +495,7 @@
 		"BGM": "Metroid Prime 2: Echoes",
 		"BG": "Metroid Prime 2: Echoes Panorama",
 		"DEntries": 4,
-		"Demos": "Metroid Prime 2: Echoes (v.237), Paper Mario: The Thousand-Year Door, Pikmin 2, Donkey Konga (if bongos)",
+		"Demos": "Metroid Prime 2: Echoes (v.237) (blank “New Text Document.txt”), Paper Mario: The Thousand-Year Door, Pikmin 2, Donkey Konga (if bongos)",
 		"PEntries": 9,
 		"Previews": "Metroid Prime 2: Echoes, Paper Mario: The Thousand-Year Door, Tales of Symphonia, Donkey Konga, WarioWare, Inc.: Mega Party Games!, Second Sight, GoldenEye Rogue Agent, Need for Speed: Underground 2, Pikmin 2"
 	},{
@@ -493,31 +503,31 @@
 		"Date": "February 2005",
 		"ID": "D83P01",
 		"BGM": "Donkey Kong Jungle Beat",
-		"BG": "Baten Kaitos w/movies, Donkey Kong Jungle Beat if bongos in port 1",
-		"DEntries": 4,
-		"Demos": "Baten Kaitos: Eternal Wings and the Lost Ocean, Mario Party 6, Mario Power Tennis, Donkey Kong Jungle Beat (if bongos)",
-		"PEntries": 8,
-		"Previews": "Baten Kaitos: Eternal Wings and the Lost Ocean, NDS 1E, Donkey Kong Jungle Beat, Mario Power Tennis, Mario Party 6, The Legend of Zelda: Four Swords Adventures, Player’s Choice, News"
+		"BG": "Baten Kaitos w/movies – changes to Donkey Kong Jungle Beat if bongos in port 1",
+		"DEntries": 6,
+		"Demos": "Baten Kaitos: Eternal Wings and the Lost Ocean, Mario Party 6, Mario Power Tennis, Donkey Kong Jungle Beat (if bongos), Player’s Choice, News",
+		"PEntries": 6,
+		"Previews": "Baten Kaitos: Eternal Wings and the Lost Ocean, NDS 1E, Donkey Kong Jungle Beat, Mario Power Tennis, Mario Party 6, The Legend of Zelda: Four Swords Adventures"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 16",
 		"Date": "April 2005",
 		"ID": "D82P01",
 		"BGM": "FoxE /region s",
 		"BG": "Star Fox Assault",
-		"DEntries": 3,
-		"Demos": "Star Fox Assault, Baten Kaitos: Eternal Wings and the Lost Ocean, Donkey Kong Jungle Beat (if bongos)",
-		"PEntries": 8,
-		"Previews": "Star Fox Adventures, Donkey Kong Jungle Beat, NDS, Baten Kaitos: Eternal Wings and the Lost Ocean, Viewtiful Joe 2, SRS: Street Racing Syndicate, Robots, Player’s Choice"
+		"DEntries": 4,
+		"Demos": "Star Fox Assault, Baten Kaitos: Eternal Wings and the Lost Ocean, Donkey Kong Jungle Beat (if bongos), Player’s Choice",
+		"PEntries": 7,
+		"Previews": "Star Fox Adventures, Donkey Kong Jungle Beat, NDS, Baten Kaitos: Eternal Wings and the Lost Ocean, Viewtiful Joe 2, SRS: Street Racing Syndicate, Robots"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 17",
 		"Date": "May 2005",
 		"ID": "D79P01",
 		"BGM": "Donkey Konga w/rs",
 		"BG": "Donkey Konga w/movies",
-		"DEntries": 4,
-		"Demos": "Star Fox Assault, Baten Kaitos: Eternal Wings and the Lost Ocean, Donkey Konga 2 (if bongos), Donkey Kong Jungle Beat (if bongos)",
-		"PEntries": 8,
-		"Previews": "Star Fox Assault, NDS, Donkey Kong Jungle Beat, Baten Kaitos: Eternal Wings and the Lost Ocean, Viewtiful Joe 2, SRS: Street Racing Syndicate, Robots, Player’s Choice"
+		"DEntries": 5,
+		"Demos": "Star Fox Assault, Baten Kaitos: Eternal Wings and the Lost Ocean, Donkey Konga 2 (if bongos), Donkey Kong Jungle Beat (if bongos), Player’s Choice",
+		"PEntries": 7,
+		"Previews": "Star Fox Assault, NDS, Donkey Kong Jungle Beat, Baten Kaitos: Eternal Wings and the Lost Ocean, Viewtiful Joe 2, SRS: Street Racing Syndicate, Robots"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, EU 18",
 		"Date": "October 2005",
@@ -534,10 +544,10 @@
 		"ID": "D77P01",
 		"BGM": "Chibi Robo! w/rs",
 		"BG": "Chibi Robo! w/movies",
-		"DEntries": 3,
-		"Demos": "Chibi-Robo!, Mario Party 7, Sonic Heroes",
-		"PEntries": 11,
-		"Previews": "Chibi-Robo!, Mario Party 7, Sonic Heroes, Harvest Moon: Magical Melody, Viewtiful Joe: Red Hot Rumble, FIFA Street 2, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, SpongeBob SquarePants & Friends: Unite! (Nicktoons Unite!), Tak 2: The Staff of Dreams, Odama, News"
+		"DEntries": 4,
+		"Demos": "Chibi-Robo!, Mario Party 7, Sonic Heroes, News",
+		"PEntries": 10,
+		"Previews": "Chibi-Robo!, Mario Party 7, Sonic Heroes, Harvest Moon: Magical Melody, Viewtiful Joe: Red Hot Rumble, FIFA Street 2, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, SpongeBob SquarePants & Friends: Unite! (Nicktoons Unite!), Tak 2: The Staff of Dreams, Odama"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, AUS 3",
 		"Date": "September 2002",
@@ -552,10 +562,10 @@
 		"Disc": "Interactive Multi-Game Demo Disk, AUS 5",
 		"Date": "April 2003",
 		"ID": "D95U01",
-		"BGM": "1-PAL (Zelda remix of World)",
+		"BGM": "2-PAL (weird Zelda remix)",
 		"BG": "The Legend of Zelda: The Wind Waker",
 		"DEntries": 2,
-		"Demos": "The Legend of Zelda: The Wind Waker, Metroid Prime (v1.101)",
+		"Demos": "The Legend of Zelda: The Wind Waker, Metroid Prime (v1.101) (Metroid1.pak.contents.txt)",
 		"PEntries": 5,
 		"Previews": "Mario Party 4, Starfox Adventures, Super Mario Sunshine, The Legend of Zelda: The Wind Waker, Metroid Prime"
 	},{
@@ -575,7 +585,7 @@
 		"BGM": "Mario Kart: Double Dash!!",
 		"BG": "Mario Kart: Double Dash!! Movie",
 		"DEntries": 3,
-		"Demos": "Mario Kart: Double Dash, Star Wars Rogue Squadron III: Rebel Strike, F-Zero GX",
+		"Demos": "Mario Kart: Double Dash!!, Star Wars Rogue Squadron III: Rebel Strike, F-Zero GX",
 		"PEntries": 5,
 		"Previews": "Mario Kart: Double Dash!!, Star Wars Rogue Squadron III: Rebel Strike, Mario Party 5, Animal Crossing, F-Zero GX"
 	},{
@@ -585,7 +595,7 @@
 		"BGM": "Mario Golf: Toadstool Tour",
 		"BG": "Mario Golf: Toadstool Tour Movie",
 		"DEntries": 3,
-		"Demos": "Mario Golf: Toadstool Tour, 1080 Avalanche, Metroid Prime (v1.101)",
+		"Demos": "Mario Golf: Toadstool Tour, 1080 Avalanche, Metroid Prime (v1.101) (Metroid1.pak.contents.txt)",
 		"PEntries": 4,
 		"Previews": "Final Fantasy Crystal Chronicles, Mario Gold: Toadstool Tour, 1080 Avalanche, Metroid Prime"
 	},{
@@ -595,7 +605,7 @@
 		"BGM": "Metroid Prime 2: Echoes",
 		"BG": "Metroid Prime 2: Echoes Panorama",
 		"DEntries": 4,
-		"Demos": "Metroid Prime 2: Echoes (v.237), Paper Mario: The Thousand-Year Door, Pikmin 2, Player’s Choice",
+		"Demos": "Metroid Prime 2: Echoes (v.237) (blank “New Text Document.txt”), Paper Mario: The Thousand-Year Door, Pikmin 2, Player’s Choice",
 		"PEntries": 6,
 		"Previews": "Metroid Prime 2: Echoes, Paper Mario: The Thousand-Year Door, Donkey Konga, “Who Are You?” GBA SP Trailer, WarioWare, Inc.: Mega Party Games!, Pikmin 2"
 	},{
@@ -603,11 +613,11 @@
 		"Date": "February 2005",
 		"ID": "D87U01",
 		"BGM": "Donkey Kong Jungle Beat",
-		"BG": "Baten Kaitos w/movies, Donkey Kong Jungle Beat if bongos in port 1",
-		"DEntries": 5,
-		"Demos": "Baten Kaitos: Eternal Wings and the Lost Ocean, Mario Party 6, Mario Power Tennis, Donkey Kong Jungle Beat (if bongos), Donkey Konga (if bongos)",
-		"PEntries": 8,
-		"Previews": "Baten Kaitos: Eternal Wings and the Lost Ocean, NDS 1E, Donkey Kong Jungle Beat, Mario Power Tennis, Mario Party 6, Star Fox Assault, The Legend of Zelda: Four Swords Adventures, Player’s Choice"
+		"BG": "Baten Kaitos w/movies – changes to Donkey Kong Jungle Beat if bongos in port 1",
+		"DEntries": 6,
+		"Demos": "Baten Kaitos: Eternal Wings and the Lost Ocean, Mario Party 6, Mario Power Tennis, Donkey Kong Jungle Beat (if bongos), Donkey Konga (if bongos), Player’s Choice",
+		"PEntries": 7,
+		"Previews": "Baten Kaitos: Eternal Wings and the Lost Ocean, NDS 1E, Donkey Kong Jungle Beat, Mario Power Tennis, Mario Party 6, Star Fox Assault, The Legend of Zelda: Four Swords Adventures"
 	},{
 		"Disc": "Interactive Multi-Game Demo Disk, AUS 12",
 		"Date": "October 2005",
@@ -620,6 +630,26 @@
 		"Previews": "Pokemon XD: Gale of Darkness, Fire Emblem: Path of Radiance, Metroid Prime 2: Echoes, Mario Party 6, Paper Mario: The Thousand-Year Door, Donkey Kong Jungle Beat, Star Fox Assault"
 	},{
 		"Disc": "Gekkan Nintendo Tentou Demo, JP 1",
+		"Date": "Oct. 2001 Pikmin Demo",
+		"ID": "DPIJ01",
+		"BGM": "1-World",
+		"BG": "GC",
+		"DEntries": 1,
+		"Demos": "Pikmin",
+		"PEntries": 7,
+		"Previews": "Pikmin Movie, Pikmin “How To” Ad (with English), Pikmin JP Commercial, SSBM “Special” Movie Part 1, SSBM “Special” Movie Part 2, SSBM “Special” Movie Part 3, SSBM “Special” Movie Part 4"
+	},{
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 2",
+		"Date": "Nov. 2001 Smash Demo",
+		"ID": "DALJ01",
+		"BGM": "1-World",
+		"BG": "GC",
+		"DEntries": 3,
+		"Demos": "SSBM Multiplayer, SSBM Trophy Museum, Pikmin",
+		"PEntries": 4,
+		"Previews": "SSBM “Intro” Movie, SSBM “How to Play”, SSBM “Special” Movie, SSBM Commercial"
+	},{
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 3",
 		"Date": "April 2002",
 		"ID": "D28J01",
 		"BGM": "2-JP",
@@ -629,7 +659,7 @@
 		"PEntries": 5,
 		"Previews": "biohazard (Resident Evil) (cinematic 150s), biohazard (Resident Evil) (trailer 60s), NBA Courtside 2002, Kyojin no Doshin (Doshin the Giant), Rune (Lost Kingdom)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 2",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 4",
 		"Date": "May 2002",
 		"ID": "D29J01",
 		"BGM": "2-JP",
@@ -639,7 +669,7 @@
 		"PEntries": 5,
 		"Previews": "Mickey Mouse's Mysterious Mirror (Disney's Magical Mirror Starring Mickey Mouse), biohazard (Resident Evil), Capcom vs. SNK 2: Millionaire Fighting 2001 (Capcom vs. SNK 2: Mark of the Millennium 2001), FIFA World Cup 2002 (2002 FIFA World Cup), Crazy Taxi"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 3",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 5",
 		"Date": "June 2002",
 		"ID": "D32J01",
 		"BGM": "2-JP",
@@ -649,17 +679,17 @@
 		"PEntries": 8,
 		"Previews": "Super Mario Sunshine, Jikkyou Powerful Pro Yakyuu 9 (Power Pro 9), Mutsu Tonohohon, E3 2002, Beach Spikers, Disney Sports Soccer, Shinkisekai Evolutia (Evolution Worlds), GameCube Price Down Commercial (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 4",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 6",
 		"Date": "July 2002",
 		"ID": "D33J01",
 		"BGM": "2-JP",
 		"BG": "gc",
-		"DEntries": 3,
-		"Demos": "Disney's Magical Mirror Starring Mickey Mouse, Jikkyou Powerful Pro Yakyuu 9 (Power Pro 9), Disney Sports Soccer",
+		"DEntries": 4,
+		"Demos": "Disney's Magical Mirror Starring Mickey Mouse, Jikkyou Powerful Pro Yakyuu 9 (Power Pro 9), Disney Sports Soccer, News",
 		"PEntries": 6,
 		"Previews": "Super Mario Sunshine, Super Mario Sunshine Commercial, Phantasy Star Online Episode I & II, E3 2002, E3 2002 News, WTA Tour Tennis Pro Evolution (WTA Tour Tennis)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 5",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 7",
 		"Date": "Mario July 2002",
 		"ID": "D34J01",
 		"BGM": "2-JP",
@@ -669,7 +699,7 @@
 		"PEntries": 4,
 		"Previews": "Super Mario Sunshine, Super Mario Sunshine Commercial 1, Super Mario Sunshine Commercial 2, Lineup 2002"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 6",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 8",
 		"Date": "August 2002",
 		"ID": 0,
 		"BGM": "?",
@@ -679,7 +709,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 7",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 9",
 		"Date": "September 2002",
 		"ID": "D38J01",
 		"BGM": "2-JP",
@@ -689,7 +719,7 @@
 		"PEntries": 6,
 		"Previews": "Star Fox Adventure (Star Fox Adventures), Biohazard 0 (Resident Evil 0), GameCube Commercials, Super Mario Sunshine, Phantasy Star Online Episode I & II, September Lineup (Ads + Commercials)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 8",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 10",
 		"Date": "October 2002",
 		"ID": "D39J01",
 		"BGM": "2-JP",
@@ -699,7 +729,7 @@
 		"PEntries": 6,
 		"Previews": "Star Fox Adventure (Star Fox Adventures), Eternal Darkness: Sanity’s Requiem, Biohazard 0 (Resident Evil 0), Tsubuyori Disc 2002 Ad, GameCube Lineup, Ads + Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 9",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 11",
 		"Date": "November 2002 (Disc A)",
 		"ID": "D42J01-0",
 		"BGM": "2-JP",
@@ -709,7 +739,7 @@
 		"PEntries": 6,
 		"Previews": "Interview with Shigeru Miyamoto – The Legend of Zelda: Wind Waker, Biohazard 0 (Resident Evil 0), Mario Party 4, Eternal Darkness: Sanity’s Requiem, GameCube Lineup, Ads + Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 10",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 12",
 		"Date": "November 2002 (Disc B)",
 		"ID": "D42J01-1",
 		"BGM": "2-JP",
@@ -719,7 +749,7 @@
 		"PEntries": 3,
 		"Previews": "Interview with Shigeru Miyamoto – The Legend of Zelda: Wind Waker, Biohazard 0 (Resident Evil 0), Mario Party 4"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 11",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 13",
 		"Date": "December 2002 (Disc A)",
 		"ID": "D44J01-0",
 		"BGM": "?",
@@ -729,7 +759,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 12",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 14",
 		"Date": "December 2002 (Disc B)",
 		"ID": "D44J01-1",
 		"BGM": "?",
@@ -739,7 +769,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 13",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 15",
 		"Date": "January 2003 (Disc A)",
 		"ID": "D46J01-0",
 		"BGM": "2-JP",
@@ -749,7 +779,7 @@
 		"PEntries": 9,
 		"Previews": "The Legend of Zelda: Wind Waker, Mario Party 4, GameCube Lineup Ad, GameCube Lineup Volume 1, GameCube Lineup Volume 2, Wave Bird Commercial, Nintendo Puzzle Collection, GameCube Commercials, GBA Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 14",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 16",
 		"Date": "January 2003 (Disc B)",
 		"ID": "D46J01-1",
 		"BGM": "2-JP",
@@ -759,37 +789,37 @@
 		"PEntries": 5,
 		"Previews": "GameCube Lineup Ad, Wave Bird Commercial, Nintendo Puzzle Collection, The Legend of Zelda: Wind Waker, GBA Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 15",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 17",
 		"Date": "February 2003",
 		"ID": "D47J01",
 		"BGM": "2-JP",
 		"BG": "gc",
-		"DEntries": 1,
-		"Demos": "Nintendo Puzzle Collection (Panel de Pon) (Multiboot, Dr. Mario, Yoshi Cookie)",
-		"PEntries": 8,
-		"Previews": "Metroid Prime, Final Fantasy Tactics Advance, Metroid Fusion, Soulcalibur II, Wave Bird Commercial, Nintendo Puzzle Collection, Nintendo Puzzle Collection Commercial, News"
+		"DEntries": 2,
+		"Demos": "Nintendo Puzzle Collection (Panel de Pon) (GBA Multiboot, Panel de Pon, Dr. Mario, Yoshi Cookie), News",
+		"PEntries": 7,
+		"Previews": "Metroid Prime, Final Fantasy Tactics Advance, Metroid Fusion, Soulcalibur II, Wave Bird Commercial, Nintendo Puzzle Collection, Nintendo Puzzle Collection Commercial"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 16",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 18",
 		"Date": "March 2003",
 		"ID": "D48J01",
 		"BGM": "2-JP",
 		"BG": "gc",
-		"DEntries": 3,
-		"Demos": "Metroid Prime (v1.111), Nintendo Puzzle Collection (Panel de Pon) (Multiboot, Dr Mario, Yoshi Cookie), WarioWare, Inc.: Mega Microgames! (Multiboot)",
-		"PEntries": 7,
-		"Previews": "Soulcalibur II A, Soulcalibur II B, Metroid Prime, P.N.03, Nintendo Puzzle Collection Commercial, GBA Commercials, News"
+		"DEntries": 4,
+		"Demos": "Metroid Prime (v1.111), Nintendo Puzzle Collection (Panel de Pon) (GBA Multiboot, Panel de Pon, Dr. Mario, Yoshi Cookie), WarioWare, Inc.: Mega Microgames! (GBA Multiboot), News",
+		"PEntries": 6,
+		"Previews": "Soulcalibur II A, Soulcalibur II B, Metroid Prime, P.N.03, Nintendo Puzzle Collection Commercial, GBA Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 17",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 19",
 		"Date": "April 2003",
 		"ID": "D49J01",
 		"BGM": "2-JP",
 		"BG": "gc2",
-		"DEntries": 1,
-		"Demos": "Naruto: Gekitou Ninja Taisen (Naruto: Clash of Ninja)",
+		"DEntries": 2,
+		"Demos": "Naruto: Gekitou Ninja Taisen (Naruto: Clash of Ninja), News",
 		"PEntries": 8,
 		"Previews": "Giftpia, Fire Emblem: Rekka no Ken (Fire Emblem) (GBA), P.N.03, Soul Calibur II, Naruto: Gekitou Ninja Taisen (Naruto: Clash of Ninja), Viewtiful Joe, Dokapon DX: Wataru Sekai wa Oni Darake (Ad), CM (Made in Wario (WarioWare, Inc.: Mega Microgame$!), Zelda no Densetsu: Kamigami no Triforce & Yotsu no Tsurugi (The Legend of Zelda: A Link to the Past and Four Swords), Dragon Quest Monsters: Caravan Heart (GBA), Shaman King: Soul Fight, Soul Calibur II, P.N.03)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 18",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 20",
 		"Date": "May 2003",
 		"ID": 0,
 		"BGM": "?",
@@ -799,7 +829,7 @@
 		"PEntries": 2,
 		"Previews": "Pokémon Box: Ruby and Sapphire, GiFTPiA"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 19",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 21",
 		"Date": "115 May 2003 (Soft e-Catalog 2003 Haru)",
 		"ID": "D53J01",
 		"BGM": "3-JP-collection",
@@ -809,17 +839,17 @@
 		"PEntries": 3,
 		"Previews": "Viewtiful Joe, Final Fantasy Crystal Chronicles, Tales of Symphonia"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 20",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 22",
 		"Date": "116 Summer 2003 (Soft e-Catalog 2003 Enjoy Plu-Ban)",
 		"ID": "D55J01",
 		"BGM": "3-JP-collection",
 		"BG": "Mixed",
 		"DEntries": 6,
-		"Demos": "Sonic Adventure DX: Director's Cut, Viewtiful Joe, Made in Wario (WarioWare, Inc.: Mega Microgame$!) (GBA), Puyo Puyo (Puyo Popo 2001) (Multiboot, Single-Pak Multiplayer), Selectable Chao (Tails, Knuckles, Amy) for Sonic Tiny Chao Garden) (Multiboot), ChuChu Rocket (Multiboot)",
+		"Demos": "Sonic Adventure DX: Director's Cut, Viewtiful Joe, Made in Wario (WarioWare, Inc.: Mega Microgame$!) (GBA), Puyo Puyo (Puyo Popo 2001) (GBA Multiboot) (Single-Pak Multiplayer), Selectable Chao (Tails, Knuckles, Amy) for Sonic Tiny Chao Garden) (GBA Multiboot), ChuChu Rocket (GBA Multiboot) (Pre-release)",
 		"PEntries": 6,
 		"Previews": "Viewtiful Joe, Giant Egg: The Great Adventure of Billy Hatcher (Billy Hatcher and the Giant Egg), Final Fantasy Crystal Chronicles, Tales of Symphonia, F-Zero GX, Kirby Air Ride"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 21",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 23",
 		"Date": "June 2003",
 		"ID": 0,
 		"BGM": "?",
@@ -829,7 +859,7 @@
 		"PEntries": 6,
 		"Previews": "Final Fantasy Crystal Chronicles, Pokemon Box: Ruby and Sapphire, Viewtiful Joe, Tales of Symphonia, Pokemon Channel ~Together with Pikachu!~ (Pokemon Channel), Mother1+2"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 22",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 24",
 		"Date": "July 2003",
 		"ID": "D59J01",
 		"BGM": "2-JP",
@@ -839,7 +869,7 @@
 		"PEntries": 7,
 		"Previews": "Final Fantasy Crystal Chronicles, F-Zero GX, Kirby Air Ride, Viewtiful Joe, Tales of Phantasia + Tales of Symphonia, Pokemon Channel ~Together with Pikachu!~ (Pokemon Channel), R: Racing Evolution"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 23",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 25",
 		"Date": "August 2003 (Disc A)",
 		"ID": "D62J01-0",
 		"BGM": "2-JP",
@@ -849,17 +879,17 @@
 		"PEntries": 5,
 		"Previews": "Pokemon Channel ~Together with Pikachu!~ (Pokemon Channel), Final Fantasy Crystal Chronicles, Tales of Phantasia + Tales of Symphonia, Kirby Air Ride, F-Zero GX"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 24",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 26",
 		"Date": "August 2003 (Disc B)",
 		"ID": "D62J01-1",
 		"BGM": "2-JP",
 		"BG": "gc2",
 		"DEntries": 4,
 		"Demos": "F-Zero GX, Kirby Air Ride, Pokemon Pinball: Ruby and Sapphire (GBA), News",
-		"PEntries": 7,
-		"Previews": "Final Fantasy Crystal Chronicles, Shinyaku Seiken Densetsu (Sword of Mana), Ads + Commercials (I think Bokura no Taiy? (Boktai: The Sun Is in Your Hand) + Bokuj? Monogatari: Wonderful Life (Harvest Moon: A Wonderful Life), F-Zero GX, Kirby Air Ride, Tales of Phantasia + Tales of Symphonia, News"
+		"PEntries": 6,
+		"Previews": "Final Fantasy Crystal Chronicles, Shinyaku Seiken Densetsu (Sword of Mana), Ads + Commercials (I think Bokura no Taiy? (Boktai: The Sun Is in Your Hand) + Bokuj? Monogatari: Wonderful Life (Harvest Moon: A Wonderful Life), F-Zero GX, Kirby Air Ride, Tales of Phantasia + Tales of Symphonia"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 25",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 27",
 		"Date": "September 2003",
 		"ID": 0,
 		"BGM": "?",
@@ -869,7 +899,7 @@
 		"PEntries": 7,
 		"Previews": "Densetsu no Stafy 2 (The Legendary Starfy), Tales of Phantasia + Tales of Symphonia, Final Fantasy Crystal Chronicles, Mario Golf: Toadstool Tour, Kirby Air Ride, Giant Egg: The Great Adventure of Billy Hatcher (Billy Hatcher and the Giant Egg), TV Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 26",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 28",
 		"Date": "October 2003 (Rev 0)",
 		"ID": "D64J01",
 		"BGM": "?",
@@ -879,17 +909,17 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 27",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 29",
 		"Date": "October 2003 (Rev 1)",
-		"ID": "D64J01",
+		"ID": "D64J01-01",
 		"BGM": "4-JP",
 		"BG": "Wario / Billy Hatcher",
 		"DEntries": 4,
-		"Demos": "Giant Egg: The Great Adventure of Billy Hatcher (Billy Hatcher and the Giant Egg), Mario Golf: Family Tour (Mario Golf: Toadstool Tour), Gotcha Force, F-Zero GX “Gladiator” Custom Garage Shop Parts (Galaxy Falcon, Rush Cyclone, Hornet-FX)",
+		"Demos": "Giant Egg: The Great Adventure of Billy Hatcher (Billy Hatcher and the Giant Egg), Mario Golf: Family Tour (Mario Golf: Toadstool Tour), Gotcha Force, F-Zero GX “Gladiator” Custom Garage Shop Parts (Galaxy Falcon, Rush Cyclone, Hornet-FX) (JP saves only) (not accessible from menu – use index2.html)",
 		"PEntries": 6,
 		"Previews": "Made in Wario (WarioWare: Twisted!), Mario Golf: Family Tour (Mario Golf: Toadstool Tour), Mario Kart: Double Dash!!, Oriental Blue: Ao no Tengai + Tengai Maky? II: Manji Maru (Far East of Eden II), Naruto: Gekit? Ninja Taisen! (Naruto: Clash of Ninja 2), TV Commercials"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 28",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 30",
 		"Date": "November 2003 (Disc A)",
 		"ID": "D65J01-0",
 		"BGM": "?",
@@ -899,7 +929,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 29",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 31",
 		"Date": "November 2003 (Disc B)",
 		"ID": "D65J01-1",
 		"BGM": "?",
@@ -909,7 +939,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 30",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 32",
 		"Date": "December 2003 (Disc A)",
 		"ID": "D67J01-0",
 		"BGM": "4-JP",
@@ -919,37 +949,37 @@
 		"PEntries": 11,
 		"Previews": "GameCube Xmas Lineup, GBA Xmas Lineup, Hot Mario – Mario Kart: Double Dash!!, Hot Mario – Mario Party 5, Hot Mario – Mario & Luigi RPG (Mario & Luigi: Superstar Saga), Baten Kaitosu Owaranai Tsubasa to Ushinawareta Umi (Baten Kaitos: Eternal Wings and the Lost Ocean), Naruto: Gekit? Ninja Taisen! (Naruto: Clash of Ninja 2), Donkey Konga, Pokemon Koroshiamu (Pokemon Colosseum), SD Gundam G Generation Advance, Phantasy Star Online Episode III: C.A.R.D. Revolution"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 31",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 33",
 		"Date": "December 2003 (Disc B)",
 		"ID": "D67J01-1",
 		"BGM": "4-JP",
 		"BG": "Hot Mario / Naruto",
 		"DEntries": 4,
-		"Demos": "Mario Kart: Double Dash, Mario Party 5, Naruto: Gekit? Ninja Taisen! (Naruto: Clash of Ninja 2), R: Racing Evolution",
+		"Demos": "Mario Kart: Double Dash!!, Mario Party 5, Naruto: Gekit? Ninja Taisen! (Naruto: Clash of Ninja 2), R: Racing Evolution",
 		"PEntries": 9,
 		"Previews": "GameCube Xmas Lineup, GBA Xmas Lineup, Hot Mario – Mario Kart: Double Dash!!, Hot Mario – Mario Party 5, Hot Mario – Mario & Luigi RPG (Mario & Luigi: Superstar Saga), Baten Kaitosu Owaranai Tsubasa to Ushinawareta Umi (Baten Kaitos: Eternal Wings and the Lost Ocean), Naruto: Gekit? Ninja Taisen! (Naruto: Clash of Ninja 2), Donkey Konga, Pokemon Koroshiamu (Pokemon Colosseum)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 32",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 34",
 		"Date": "January 2004",
 		"ID": "D68J01",
 		"BGM": "4-JP",
 		"BG": "Multi",
 		"DEntries": 2,
-		"Demos": "Mario Kart: Double Dash, Pokemon Berry Program Fix – hold L+R+Y+Start on startup to switch menus!",
+		"Demos": "Mario Kart: Double Dash!!, Pokemon Berry Program Fix – hold L+R+Y+Start on startup to switch menus!",
 		"PEntries": 6,
 		"Previews": "GameCube Winter Lineup (Mario Kart: Double Dash!!, Mario Party 5, Pokemon Colosseum, Naruto Taisen 2, Baten Kaitos, Donkey Konga), GBA Winter Lineup (Mario & Luigi RPG, F-Zero, Super Donkey Kong, Densetsu no Stafy 2), GameCube Lineup 2004 vol.1 (1080 Silver Storm [1080 Avalanche], Custom Robo Battle Revolution [Custom Robo], Pikmin 2), GameCube Lineup 2004 vol.2 (Metal Gear Solid: The Twin Snakes, Lord of the Rings: Return of the King, Killer7, Kidou Senshi Gundam: Senshitachi no Kiseki [Mobile Suit Gundam: Warrior's Locus], biohazard 4 [Resident Evil 4 (beta footage)]), GBA Lineup 2004 (Pokemon FireRed+LeafGreen, Gyakuten Saiban 3 [Ace Attorney 3], Metroid Zero Mission, Mario Golf: GBA Tour [Mario Golf: Advance Tour]), Zelda no Densetsu: Four Swords+ (The Legend of Zelda: Four Swords Adventures)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 33",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 35",
 		"Date": "February 2004",
 		"ID": "D73J01",
 		"BGM": "4-JP",
 		"BG": "Multi",
 		"DEntries": 5,
-		"Demos": "1080 Silver Storm, Gyakuten Saiban 3 (Ace Attorney 3) (GBA), Mario Kart: Double Dash!!, Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2), Pokemon Berry Program Fix – hold L+R+B+Start on startup to switch menus!",
+		"Demos": "1080 Silver Storm, Gyakuten Saiban 3 (Ace Attorney 3) – Trial Version (GBA), Mario Kart: Double Dash!!, Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2), Pokemon Berry Program Fix – hold L+R+B+Start on startup to switch menus!",
 		"PEntries": 4,
 		"Previews": "Zelda no Densetsu: Four Swords+ (The Legend of Zelda: Four Swords Adventures), GameCube Lineup 2004 vol.1 (1080 Silver Storm [1080 Avalanche], Custom Robo Battle Revolution [Custom Robo], Pikmin 2), GameCube Lineup 2004 vol.2 (Metal Gear Solid: The Twin Snakes, Lord of the Rings: Return of the King, Killer7, Kidou Senshi Gundam: Senshitachi no Kiseki [Mobile Suit Gundam: Warrior's Locus], biohazard 4 [Resident Evil 4 (beta footage)]), GBA Winter Lineup (Pokemon FireRed+LeafGreen, Gyakuten Saiban 3 [Ace Attorney 3], Metroid Zero Mission, Mario Golf: GBA Tour [Mario Golf: Advance Tour])"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 34",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 36",
 		"Date": "March 2004",
 		"ID": 0,
 		"BGM": "?",
@@ -959,7 +989,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 35",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 37",
 		"Date": "March 2004 (fixed)",
 		"ID": "D76J01",
 		"BGM": "?",
@@ -969,7 +999,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 36",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 38",
 		"Date": "April 2004",
 		"ID": "D77J01",
 		"BGM": "4-JP",
@@ -979,7 +1009,7 @@
 		"PEntries": 6,
 		"Previews": "Hoshi no Kirby: Kagami no Daimeikyuu (Kirby & the Amazing Mirror), Pikmin 2, Mario Golf: GBA Tour (Mario Golf: Advance Tour), Zelda no Densetsu: Four Swords+ (The Legend of Zelda: Four Swords Adventures), Metal Gear Solid: The Twin Snakes, Kid? Senshi Gundam: Senshitachi no Kiseki"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 37",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 39",
 		"Date": "May 2004",
 		"ID": "D78J01",
 		"BGM": "4-JP",
@@ -989,17 +1019,17 @@
 		"PEntries": 6,
 		"Previews": "Pikmin 2, Hoshi no Kirby: Kagami no Daimeikyuu (Kirby & the Amazing Mirror), Wario World, Metroid Zero Mission, Mario Golf: GBA Tour (Mario Golf: Advance Tour), Zelda no Densetsu: Four Swords+ (The Legend of Zelda: Four Swords Adventures)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 38",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 40",
 		"Date": "June 2004",
 		"ID": "D79J01",
 		"BGM": "4-JP",
 		"BG": "Multi",
 		"DEntries": 5,
-		"Demos": "Mario vs. Donkey Kong (GBA), Pikmin 2, Hoshi no Kirby: Kagami no Daimeikyuu (Kirby & the Amazing Mirror) (GBA), Sonic Advance 3 (GBA), Mario vs. Donkey Kong (GBA) (USA) (Hidden inside Sonic Advance 3 location)",
+		"Demos": "Mario vs. Donkey Kong (GBA), Pikmin 2, Hoshi no Kirby: Kagami no Daimeikyuu (Kirby & the Amazing Mirror) (GBA), Sonic Advance 3 (GBA), Mario vs. Donkey Kong (GBA) (USA) (hidden inside Sonic Advance 3 location)",
 		"PEntries": 9,
 		"Previews": "Mario vs. Donkey Kong, Wario World, Metroid Zero Mission Commercial, Pikmin 2, Donkey Konga 2: Hit Song Parade! (Donkey Konga 2) + Super Donkey Kong 2 (Donkey Kong Country 2), Harry Potter and the Prisoner of Azkaban, Wario World Commercial (hidden, plays randomly), Metroid Zero Mission (hidden, plays randomly), Mario Golf: GBA Tour (Mario Golf: Advance Tour) (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 39",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 41",
 		"Date": "July 2004",
 		"ID": "D82J01",
 		"BGM": "4-JP",
@@ -1009,7 +1039,7 @@
 		"PEntries": 12,
 		"Previews": "Paper Mario RPG (Paper Mario: The Thousand-Year Door), Donkey Konga 2: Hit Song Parade! (Donkey Konga 2), Super Donkey Kong 2 (Donkey Kong Country 2) Commercial, Tottoko Hamutarou: Hamu-Hamu Sports (Hamtaro: Ham-Ham Games), Densetsu no Stafy 3 (The Legendary Starfy), Mario vs. Donkey Kong Commercial, RPG Ads + Commercials, Bokuj? Monogatari: Wonderful Life (Harvest Moon: A Wonderful Life), Super Donkey Kong 2 (Donkey Kong Country 2) (hidden, plays randomly), Wario World (hidden, plays randomly), Metroid Zero Mission (hidden, plays randomly), Mario vs. Donkey Kong (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 40",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 42",
 		"Date": "August 2004",
 		"ID": "D84J01",
 		"BGM": "?",
@@ -1019,7 +1049,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 41",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 43",
 		"Date": "September 2004",
 		"ID": "D85J01",
 		"BGM": "4-JP",
@@ -1027,9 +1057,9 @@
 		"DEntries": 3,
 		"Demos": "Paper Mario RPG (Paper Mario: The Thousand-Year Door), Super Mario Ball (Mario Pinball Land) (GBA), Konjiki no Gash Bell!! Y?j? no Tag Battle Full Power (Zatch Bell! Mamodo Battles)",
 		"PEntries": 12,
-		"Previews": "Pocket Monsters: Emerald (Pokemon Emerald), Kururin Squash!, Paper Mario RPG (Paper Mario: The Thousand-Year Door), Fire Emblem: Seima no Kousek (Fire Emblem: The Sacred Stones), Super Mario Ball (Mario Pinball Land), Densetsu no Stafy 3 (The Legendary Starfy), Kingudamu H?tsu Chein Obu Memor?zu (Kingdom Hearts: Chain of Memories), Konjiki no Gash Bell!! Y?j? no Tag Battle Full Power (Zatch Bell! Mamodo Battles), Zoids Vs. III, Famicom Disk System No Card (plays randomly), Paper Mario RPG (Paper Mario: The Thousand-Year Door) Commercial (hidden, plays randomly), Super Mario Ball (Mario Pinball Land) Commercial (hidden, plays randomly)"
+		"Previews": "Pocket Monsters: Emerald (Pokemon Emerald), Kururin Squash!, Paper Mario RPG (Paper Mario: The Thousand-Year Door), Fire Emblem: Seima no Kousek (Fire Emblem: The Sacred Stones), Super Mario Ball (Mario Pinball Land), Densetsu no Stafy 3 (The Legendary Starfy), Kingudamu H?tsu Chein Obu Memor?zu (Kingdom Hearts: Chain of Memories), Konjiki no Gash Bell!! Y?j? no Tag Battle Full Power (Zatch Bell! Mamodo Battles), Zoids Vs. III, Famicom Disk System No Card (plays randomly but is not listed in index.html), Paper Mario RPG (Paper Mario: The Thousand-Year Door) Commercial (hidden, plays randomly), Super Mario Ball (Mario Pinball Land) Commercial (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 42",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 44",
 		"Date": "October 2004",
 		"ID": "D86J01",
 		"BGM": "4-JP (Loud volume)",
@@ -1039,7 +1069,7 @@
 		"PEntries": 11,
 		"Previews": "Made in Wario (WarioWare: Twisted!), Mario Tennis (Mario Power Tennis), Fire Emblem: Seima no Kousek (Fire Emblem: The Sacred Stones), Fire Emblem: Seima no Kousek (Fire Emblem: The Sacred Stones) Commercial, Kururin Squash!, F-Zero Climax, Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), Pocket Monsters: Emerald (Pokemon Emerald) Commercial, Kingudamu H?tsu Chein Obu Memor?zu (Kingdom Hearts: Chain of Memories), Kururin Squash! Commercial (hidden, plays randomly), NDS Commercial (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 43",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 45",
 		"Date": "November 2004",
 		"ID": "D87J01",
 		"BGM": "4-JP (Loud volume)",
@@ -1047,19 +1077,29 @@
 		"DEntries": 5,
 		"Demos": "Mario Tennis (Mario Power Tennis), Mario Party 6, F-Zero Climax (GBA), Naruto: Gekit? Ninja Taisen! 3 (Naruto: Great Ninja Battle! 3), Viewtiful Joe 2",
 		"PEntries": 13,
-		"Previews": "Mario Tennis (Mario Power Tennis), Mario Party 6, Game Boy Wars Advance 1+2 (Advance Wars 1+2), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), Made in Wario (WarioWare: Twisted!), F-Zero Climax, Kingudamu H?tsu Chein Obu Memor?zu (Kingdom Hearts: Chain of Memories), S?p? Robotto Taisen GC (Super Robot Wars GC), NDS Commercial, NDS Ad (might play randomly), Kururin Squash! Commercial (hidden, plays randomly), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap) (hidden, plays randomly), Mario Tennis (Mario Power Tennis) (hidden, plays randomly)"
+		"Previews": "Mario Tennis (Mario Power Tennis), Mario Party 6, Game Boy Wars Advance 1+2 (Advance Wars 1+2), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), Made in Wario (WarioWare: Twisted!), F-Zero Climax, Kingudamu H?tsu Chein Obu Memor?zu (Kingdom Hearts: Chain of Memories), S?p? Robotto Taisen GC (Super Robot Wars GC), NDS Commercial, NDS Ad, Kururin Squash! Commercial (hidden, plays randomly), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap) (hidden, plays randomly), Mario Tennis (Mario Power Tennis) (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 44",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 46",
 		"Date": "December 2004",
 		"ID": "D88J01",
 		"BGM": "5-JP",
 		"BG": "NDS / Multi",
 		"DEntries": 4,
 		"Demos": "Mario Party 6, Mario Tennis (Mario Power Tennis), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap) (GBA), Naruto: Gekit? Ninja Taisen! 3 (Naruto: Great Ninja Battle! 3)",
-		"PEntries": 17,
-		"Previews": "NDS Multi-game Commercial (Kensh?i Tendo Doctor + Mr. Driller Drill Spirits + The Urbz: Sims in the City + Zunou ni Asekaku Game Series! Vol. 1 - Cool 104 Joker & Setline + Zoo Keeper + Mahjong Taikai), Sawaru Made in Wario (WarioWare: Touched!) Commercial, Super Mario 64 DS Commercial, Kimi no Tame Nara Shineru (Feel the Magic: XY/XX) Commercial, Chokkan Hitofude (Polarium) Commercial, Pocket Monster Dash (Pokemon Dash) Commercial, Daigasso! Band Brothers Commercial, Donkey Kong Jungle Beat, Yoshi no Banyuu Inryoku (Yoshi's Universal Gravitation), Mario Party 6, Game Boy Wars Advance 1+2 (Advance Wars 1+2), Mario Tennis (Mario Power Tennis), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), S?p? Robotto Taisen GC (Super Robot Wars GC), Kidou Senshi Gundam: Gundam vs. Z Gundam (Mobile Suit Gundam: Gundam vs. Zeta Gundam), Mario Party 6 (hidden, plays randomly), Game Boy Wars Advance 1+2 (Advance Wars 1+2) (hidden, plays randomly)"
+		"PEntries": 18,
+		"Previews": "NDS Multi-game Commercial (Kensh?i Tendo Doctor + Mr. Driller Drill Spirits + The Urbz: Sims in the City + Zunou ni Asekaku Game Series! Vol. 1 - Cool 104 Joker & Setline + Zoo Keeper + Mahjong Taikai), Sawaru Made in Wario (WarioWare: Touched!) Commercial, Super Mario 64 DS Commercial, Kimi no Tame Nara Shineru (Feel the Magic: XY/XX) Commercial, Chokkan Hitofude (Polarium) Commercial, Pocket Monster Dash (Pokemon Dash) Commercial, Daigasso! Band Brothers Commercial, Donkey Kong Jungle Beat, Yoshi no Banyuu Inryoku (Yoshi's Universal Gravitation), Mario Party 6, Game Boy Wars Advance 1+2 (Advance Wars 1+2), Mario Tennis (Mario Power Tennis), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), S?p? Robotto Taisen GC (Super Robot Wars GC), Kidou Senshi Gundam: Gundam vs. Z Gundam (Mobile Suit Gundam: Gundam vs. Zeta Gundam), Mario Party 6 (hidden, plays randomly), Game Boy Wars Advance 1+2 (Advance Wars 1+2) (hidden, plays randomly), (several duplicate or near-duplicate files on disk)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 45",
+		"Disc": "Club Nintendo Original e-Catalogue 2004, JP",
+		"Date": "January 2005",
+		"ID": "D89J01",
+		"BGM": "5-JP",
+		"BG": "NDS / Multi",
+		"DEntries": 2,
+		"Demos": "Naruto: Gekit? Ninja Taisen! 3 (Naruto: Great Ninja Battle! 3), Viewtiful Joe",
+		"PEntries": 24,
+		"Previews": "Naruto: Gekit? Ninja Taisen! 3 (Naruto: Great Ninja Battle! 3), Star Fox Assault, Metroid Prime 2: Dark Echoes (Metroid Prime 2: Echoes), Mario Party 6, Mario Power Tennis, Kidou Senshi Gundam: Gundam vs. Z Gundam (Mobile Suit Gundam: Gundam vs. Zeta Gundam), S?p? Robotto Taisen GC (Super Robot Wars GC), Homeland, Pikmin 2, Pokemon Emerald, Made in Wario (WarioWare: Twisted!), Zeruda no Densetsu: Fushigi no B?shi (The Legend of Zelda: The Minish Cap), Fire Emblem: Seima no Kousek (Fire Emblem: The Sacred Stones), Game Boy Wars Advance 1+2 (Advance Wars 1+2), Teiruzu obu za Waarudo: Narikiri Danjon 3 (Tales of the World: Narikiri Dungeon 3), Kingdom Hearts: Chain of Memories, Rockman X5: Team of Burousu & Team of Colonel (Mega Man Battle Network 5: Team ProtoMan & Team Colonel), Super Robot Taisen: Original Generation 2, Kidou Senshi Gundam Seed Destiny (Mobile Suit Gundam SEED Destiny), Konjiki no Gash Bell!! Unare! Y?j? no Zakeru 2 (Zatch Bell! Electric Arena 2), Pawapuro Kun Poketto 7 (Power Pro Kun Pocket 7), Dragon Ball: Advanced Adventure, Final Fantasy 1+2 Advance (Final Fantasy I & II: Dawn of Souls), NDS Trailer"
+	},{
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 47",
 		"Date": "End Year 2004-2005 (Nenmatsunenshi-gou)",
 		"ID": "D92J01",
 		"BGM": "5-JP",
@@ -1069,7 +1109,7 @@
 		"PEntries": 17,
 		"Previews": "NDS Multi-game Commercial, NDS Commercials + Pictochat, Puyo Pop Fever Commercial, Sawaru Made in Wario (WarioWare: Touched!) Commercial, Super Mario 64 DS Commercial, Kimi no Tame Nara Shineru (Feel the Magic: XY/XX) Commercial, Chokkan Hitofude (Polarium) Commercial, Pocket Monster Dash (Pokemon Dash) Commercial, Daigasso! Band Brothers Commercial, Donkey Kong Jungle Beat, Mario Party 6, Yoshi no Banyuu Inryoku (Yoshi's Universal Gravitation), Mario Tennis (Mario Power Tennis), Zelda no Densetsu : Fushigi no Boushi (The Legend of Zelda: The Minish Cap), Teiruzu obu za Waarudo: Narikiri Danjon 3 (Tales of the World: Narikiri Dungeon 3), Compilation of all trailers (hidden, plays randomly), Biohazard 4 (Resident Evil 4) (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 46",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 48",
 		"Date": "January 2005",
 		"ID": "D93J01",
 		"BGM": "?",
@@ -1079,7 +1119,7 @@
 		"PEntries": 6,
 		"Previews": "Nintendogs, Catch! Touch! Yoshi! (Yoshi Touch & Go), Mario Party Advance, Donkey Kong Jungle Beat, Yoshi’s Universal Gravitation (Yoshi Topsy-Turvy), Picto Chat"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 47",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 49",
 		"Date": "February 2005",
 		"ID": "D94J01",
 		"BGM": "?",
@@ -1089,7 +1129,7 @@
 		"PEntries": 12,
 		"Previews": "NDS Soft Lineup, TVCM Catch! Touch! Yoshi!, Large Ensemble! Band Brothers, Star Fox Assault, Donkey Konga, TVCM Donkey Kong Jungle Beat, Konjiki no Gash Bell!! Y?j? no Tag Battle Full Power (Zatch Bell! Mamodo Battles), One Piece: Treasure Battle!, biohazard 4 (Resident Evil 4), Ranch Story Happy Poem, Millenium Family, Marty Party Advance"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 48",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 50",
 		"Date": "March 2005",
 		"ID": "D95J01",
 		"BGM": "?",
@@ -1098,7 +1138,7 @@
 		"Demos": "?",
 		"PEntries": 0
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 49",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 51",
 		"Date": "April 2005",
 		"ID": "D96J01",
 		"BGM": "?",
@@ -1108,7 +1148,7 @@
 		"PEntries": 8,
 		"Previews": "Touch! New Colors DS, NDS Touch! Lineup (Touch! Kirby [Kirby: Canvas Curse], PikuPiku: Toku to E Ninaru Mitsu no Puzzle [Pic Pic] (?), Meteos, Naruto: Saiky? Ninja Daikesshu 3 for DS ([Naruto: Great Council of the Strongest Ninja 3 for DS] [Naruto: Ninja Council 2 - European Version]), Yakuman DS [Mahjong], Bokuj? Monogatari: Korobokkuru Sut?shon [Harvest Moon DS], Egg Monster Hero), Nintendogs, Electroplankton, Fire Emblem: S?en no Kiseki (Fire Emblem: Path of Radiance), The Tower SP, Star Fox Assault, Naruto: Saiky? Ninja Daikesshu 2 (Naruto: Ninja Council 2) (GBA) ?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 50",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 52",
 		"Date": "May 2005",
 		"ID": 0,
 		"BGM": "?",
@@ -1118,7 +1158,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 51",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 53",
 		"Date": "June 2005",
 		"ID": 0,
 		"BGM": "?",
@@ -1128,7 +1168,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 52",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 54",
 		"Date": "July 2005",
 		"ID": 0,
 		"BGM": "?",
@@ -1138,7 +1178,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 53",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 55",
 		"Date": "August 2005",
 		"ID": "E22J01",
 		"BGM": "?",
@@ -1148,7 +1188,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 54",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 56",
 		"Date": "September 2005",
 		"ID": "E23J01",
 		"BGM": "?",
@@ -1158,7 +1198,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 55",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 57",
 		"Date": "October 2005",
 		"ID": "E24J01",
 		"BGM": "6-JP",
@@ -1168,7 +1208,7 @@
 		"PEntries": 13,
 		"Previews": "NDS Lineup, Otona no DS Golf; DS Golf for Adults (True Swing Golf), NDS Touch! Lineup, Tohoku University Future Technology Research Center Professor and Supervisor Ryuta Kawashima's Train Your Brain DS Training For Adults (Brain Age: Train Your Brain in Minutes a Day!), Daredemo Asobi Taizen (Clubhouse Games), Assault!! Famicom Wars (Battalion Wars), Tsuukin Hitofude (Polarium Advance), Screw Breaker: Goushin Dorirurero (Drill Dozer), Zoids: Full Metal Crash, Mario Tennis (Mario Power Tennis), Game Boy Micro, Happy! Mario 20th, Screw Breaker: Goushin Dorirurero (Drill Dozer) Commercial (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 56",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 58",
 		"Date": "November 2005",
 		"ID": "E25J01",
 		"BGM": "?",
@@ -1178,7 +1218,7 @@
 		"PEntries": 13,
 		"Previews": "D?butsu no Mori Prasu (Animal Crossing), Mario Kart DS, Touch! Generations Tohoku University Future Technology Research Center Professor and Supervisor Ryuta Kawashima's More Train Your Brain DS Training for Adults (Brain Age 2: More Training in Minutes a Day!), Yawaraka Atama Juku // Soft Head Academy (Big Brain Academy), DS Golf for Adults (True Swing Golf), DS Soft Lineup: Pokémon Mystery Dungeon: Blue Red Rescue Team, Tottoko Hamtaro: Nazo Nazo Q Kumonoue no ? Jou (Hamtaro Nazo Nazo Q), Pokémon Tor?ze (Pokémon Trozei!), Super Princess Peach, Sonic Rush, Slime MoriMori Dragon Quest 2: Daisensha to Shippo Dan // Tank and Tail Team (Dragon Quest Heroes: Rocket Slime), Dragon Ball Z: Buy? Retsuden (Dragon Ball Z: L'Appel du Destin [Dragon Ball Z: The Call of Destiny]), Power Pro Kun Pocket 8), Harry Potter and the Goblet of Fire DS, Assault!! Famicom Wars (Battalion Wars), SD Gundam Gashapon Wars, Naruto: Gekit? Ninja Taisen! 4 (Naruto: Great Ninja Battle! 4), SSX on Tour with Mario (SSX on Tour), Harry Potter and the Goblet of Fire, Super Donkey Kong Country 3"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 57",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 59",
 		"Date": "November 2005 (revised)",
 		"ID": "E25J01-01",
 		"BGM": "?",
@@ -1188,7 +1228,7 @@
 		"PEntries": 13,
 		"Previews": "D?butsu no Mori Prasu (Animal Crossing), Mario Kart DS, Touch! Generations Tohoku University Future Technology Research Center Professor and Supervisor Ryuta Kawashima's More Train Your Brain DS Training for Adults (Brain Age 2: More Training in Minutes a Day!), Yawaraka Atama Juku // Soft Head Academy (Big Brain Academy), DS Golf for Adults (True Swing Golf), DS Soft Lineup: Pokémon Mystery Dungeon: Blue Red Rescue Team, Tottoko Hamtaro: Nazo Nazo Q Kumonoue no ? Jou (Hamtaro Nazo Nazo Q), Pokémon Tor?ze (Pokémon Trozei!), Super Princess Peach, Sonic Rush, Slime MoriMori Dragon Quest 2: Daisensha to Shippo Dan // Tank and Tail Team (Dragon Quest Heroes: Rocket Slime), Dragon Ball Z: Buy? Retsuden (Dragon Ball Z: L'Appel du Destin [Dragon Ball Z: The Call of Destiny]), Power Pro Kun Pocket 8), Harry Potter and the Goblet of Fire DS, Assault!! Famicom Wars (Battalion Wars), SD Gundam Gashapon Wars, Naruto: Gekit? Ninja Taisen! 4 (Naruto: Great Ninja Battle! 4), SSX on Tour with Mario (SSX on Tour), Harry Potter and the Goblet of Fire, Super Donkey Kong Country 3"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 58",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 60",
 		"Date": "December 2005",
 		"ID": "E26J01",
 		"BGM": "?",
@@ -1198,7 +1238,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 59",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 61",
 		"Date": "January 2006",
 		"ID": "E27J01",
 		"BGM": "6-JP",
@@ -1208,7 +1248,7 @@
 		"PEntries": 19,
 		"Previews": "Touch! Generations, Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training, Eigo ga Nigate na Otona no DS Training: Motto Eigo Dzuke (Practice English!), Daredemo Asobi Taizen (Clubhouse Games), DS Rakubiki Jiten, Yawaraka Atama Juku // Soft Head Academy (Big Brain Academy), Electroplankton, Nintendogs, Mario & Luigi RPG 2x2 (Mario & Luigi: Partners in Time), Eyeshield 21: MAX Devil Power, Metroid Prime Pinball, Lost Magic, Yakitate!! Japan - Game Ichigou - Choujou Kessen!! Pantasic Grand Prix!, Densetsu no Quiz-ou Kettei-sen, Konjiki no Gash Bell!! Go! Go! Mamono Fight!!, SD Gundam Gashapon Wars, Super Mario Strikers, Mario Kart DS, Mario Party 7"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 60",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 62",
 		"Date": "February 2006",
 		"ID": 0,
 		"BGM": "?",
@@ -1218,7 +1258,17 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 61",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 63",
+		"Date": "March 2006",
+		"ID": 0,
+		"BGM": "?",
+		"BG": "?",
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 64",
 		"Date": "April 2006",
 		"ID": "E32J01",
 		"BGM": "6-JP",
@@ -1228,7 +1278,7 @@
 		"PEntries": 10,
 		"Previews": "Kanji Sonomama Rakubiki Jiten DS (Kanji as it is DS Easy Dictionary), Tetris DS, NDS Lineup Type A + Type B (Densetsu no Stafy 4 (The Legendary Starfy) + Shunkan Puzzloop (Magnetica) + Tales of the Tempest + Xenosaga I & II + Naruto Shippuden: Ninja Council 4 + Seiken Densetsu DS: Children of Mana (Children of Mana) + Contact), Pokémon Mystery Dungeon: Blue Rescue Team, Pikachu The Movie, Tenchu Dark Shadow (Tenchu: Dark Secret), Odama, Mother 3, Eyeshield 21: DevilBats DevilDays, Eigo ga Nigate na Otona no DS Training: Motto Eigo Dzuke (Practice English!) (hidden, plays randomly)"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 62",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 65",
 		"Date": "May 2006",
 		"ID": "E33J01",
 		"BGM": "?",
@@ -1238,7 +1288,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 63",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 66",
 		"Date": "June 2006",
 		"ID": "E34J01",
 		"BGM": "6-JP",
@@ -1248,7 +1298,7 @@
 		"PEntries": 6,
 		"Previews": "New Super Mario Bros., Tetris DS, Tabi no Yubisashi Kaiwach? DS (DS Series 1-5 Thai, Chugoku, Kankoku, America, Deutsch) (The Original “Point-and-Speak” Phrasebook), Eigo ga Nigate na Otona no DS Training: Motto Eigo Dzuke (Practice English!), NDS Lineup (Metroid Prime Hunters, magica vacation rpg game, Touch Panic, same drawing game, digimon,  , Mother 3"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 64",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 67",
 		"Date": "July 2006",
 		"ID": "E35J01",
 		"BGM": "?",
@@ -1258,7 +1308,7 @@
 		"PEntries": 8,
 		"Previews": "Shaberu! DS Oryouri Navi, New Super Mario Bros, Tabi no Yubisashi Kaiwachou DS, Kanji Sonomama - DS Rakubiki Jiten, Tetris DS, Sudoku, Eigo Zuke / Motto Nou o Kitaeru Otona no DS Training, bit Generations"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 65",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 68",
 		"Date": "August 2006",
 		"ID": "E36J01",
 		"BGM": "?",
@@ -1268,7 +1318,7 @@
 		"PEntries": 1,
 		"Previews": "?"
 	},{
-		"Disc": "Gekkan Nintendo Tentou Demo, JP 66",
+		"Disc": "Gekkan Nintendo Tentou Demo, JP 69",
 		"Date": "September 2006",
 		"ID": "E37J01",
 		"BGM": "6-JP",
@@ -1277,5 +1327,459 @@
 		"Demos": "Movies only – >",
 		"PEntries": 13,
 		"Previews": "Pokemon Diamond & Pearl, Freshly-Picked Tingle's Rosy Rupeeland, Final Fantasy III (DS), Shaberu! DS Ory?ri Navi (Meals of the World: Speak! DS Cooking Navigator // Personal Trainer: Cooking), NDS Lineup (Chou Soujuu Meka MG + Star Fox Command + Wi-Fi Tai? Yakuman DS (wifi mahjong) + Tamagotchi no Puchi Puchi Omisecchi Gohi-Kini (Tamagotchi Connection: Corner Shop 2) + Rune Factory: A New Farm Story (Rune Factory: A Fantasy Harvest Moon)), Un? no Tatsujin: Hirameki Kosodate My Angel (Kosodate Quiz: My Angel // Parenting Quiz: My Angel), Gintama DS: Yorozuya Daisoudou (Gintama DS: Odd Jobs Grand Riot!), Zaidan Houjin Nippon Kanji Nouryoku Kentei Kounin: KanKen DS, Rhythm Tengoku, Eigo ga Nigate na Otona no DS Training: Motto Eigo Dzuke (Practice English!) (hidden, plays randomly), Freshly-Picked Tingle's Rosy Rupeeland (hidden, plays randomly), DS Touch! Generations Commercial (hidden, plays randomly), bit Generations (hidden, plays randomly)"
+	},{
+		"Disc": "Mario Kart: Double Dash!! Bonus Disc USA",
+		"ID": "PM4E01",
+		"DEntries": 6,
+		"Demos": "Mario Party 5, F-Zero GX, Sonic Heroes, Star Wars Rogue Squadron III: Rebel Strike, Teenage Mutant Ninja Turtles, Fire Emblem GBA Bonus Items",
+		"PEntries": 7,
+		"Previews": "Final Fantasy Crystal Chronicles, 1080 Avalanche, Pokemon Colosseum, Kirby Air Ride, Harry Potter: Quiddich World Cup, Spongebob Squarepants: Battle For Bikini Bottom, NBA Live 2004"
+	},{
+		"Disc": "Naruto Special Collection Demo JP",
+		"ID": "PNRJ01",
+		"DEntries": 5,
+		"Demos": "Naruto: Ninjutsu Zenkai! Saiky? Ninja Daikessh? (Naruto: Ninja Council) (GBA), Naruto: Konoha Senki (Naruto: Tree Leaf Military History) (GBA), Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2), Naruto: Saiky? Ninja Daikesshu 2 (Naruto: Ninja Council 2) (GBA), Naruto RPG: Uketsugareshi Hi no Ishi (Naruto: Path of the Ninja) (GBA)",
+		"PEntries": 16,
+		"Previews": "Naruto: Gekit? Ninja Taisen! (Naruto: Great Ninja Battle!) + Naruto: Ninjutsu Zenkai! Saiky? Ninja Daikessh? (Naruto: Ninja Council), Naruto: Gekit? Ninja Taisen! 3 (Naruto: Great Ninja Battle! 3), Naruto: Gekit? Ninja Taisen (Naruto: Clash of Ninja) Commercial, Naruto: Ninjutsu Zenkai! Saiky? Ninja Daikessh? (Naruto: Ninja Council), Naruto: Ninjutsu Zenkai! Saiky? Ninja Daikessh? (Naruto: Ninja Council) Commercial, Naruto: Konoha Senki (Naruto: Tree Leaf Military History), Naruto: Konoha Senki (Naruto: Tree Leaf Military History) Commercial, Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2), Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2) Commercial, Naruto: Gekit? Ninja Taisen! 2 (Naruto: Clash of Ninja 2) Combo Reel, Naruto: Saiky? Ninja Daikesshu 2 (Naruto: Ninja Council 2), Naruto: Saiky? Ninja Daikesshu 2 (Naruto: Ninja Council 2) Commercial, Naruto: Saiky? Ninja Daikesshu 2 (Naruto: Ninja Council 2) Combo Reel, Naruto RPG: Uketsugareshi Hi no Ishi (Naruto: Path of the Ninja), Naruto RPG: Uketsugareshi Hi no Ishi (Naruto: Path of the Ninja) Commercial, Naruto RPG: Uketsugareshi Hi no Ishi (Naruto: Path of the Ninja) Combo Reel"
+	},{
+		"Disc": "Pac-Man Vs. - Club Nintendo Limited Edition JP",
+		"ID": "PCPJ01",
+		"DEntries": 1,
+		"Demos": "Pac-Man Vs. (GBA connectivity)",
+		"PEntries": 7,
+		"Previews": "Hot Mario! (Mario Kart Double Dash!! + Mario & Luigi RPG (Mario & Luigi: Superstar Saga) + Mario Party 5), Pokemon Koroshiamu (Pokemon Colosseum), Baten Kaitosu Owaranai Tsubasa to Ushinawareta Umi (Baten Kaitos: Eternal Wings and the Lost Ocean), Donkey Konga, Super Donkey Kong (Donkey Kong Country), F-Zero: Falcon Densetsu (F-Zero: GP Legend), R: Racing Evolution"
+	},{
+		"Disc": "Pac-Man Vs. Promo USA",
+		"ID": "PRJE01",
+		"DEntries": 1,
+		"Demos": "Pac-Man Vs. (GBA connectivity)",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Biohazard Movie Demo Disc JP",
+		"ID": "DBIJ08",
+		"DEntries": 1,
+		"Demos": "Movie – >",
+		"PEntries": 1,
+		"Previews": "Biohazard (Resident Evil) Movie"
+	},{
+		"Disc": "Biohazard Special Edition JP",
+		"ID": "DBJJ08",
+		"DEntries": 1,
+		"Demos": "Biohazard (Resident Evil) Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Biohazard 0 Trial Edition JP",
+		"ID": "DBZJ08",
+		"DEntries": 1,
+		"Demos": "Biohazard 0 (Resident Evil 0) Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Biohazard 4 Trial Edition JP",
+		"ID": "P4BJ08",
+		"DEntries": 1,
+		"Demos": "Biohazard 4 (Resident Evil 4) Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Resident Evil 4 Preview Disc USA",
+		"ID": "D4BE08",
+		"DEntries": 1,
+		"Demos": "Resident Evil 4 Demo",
+		"PEntries": 8,
+		"Previews": "Resident Evil 4, Resident Evil 0, Resident Evil, Resident Evil 2, Resident Evil 3, Resident Evil – CODE: Veronica X, Intro scene to Resident Evil 0 (Doesn’t appear to be accessible from the main menu), Intro scene to Resident Evil (Doesn’t appear to be accessible from the main menu)"
+	},{
+		"Disc": "Resident Evil 4 Bonus Disc EUR",
+		"ID": "D4BP01",
+		"DEntries": 1,
+		"Demos": "Metroid Prime 2: Echoes (v.237) (blank “New Text Document.txt”)",
+		"PEntries": 7,
+		"Previews": "Resident Evil 4, Resident Evil 0, Resident Evil, Resident Evil 2, Resident Evil 3, Resident Evil – CODE: Veronica X, Making of Resident Evil 4"
+	},{
+		"Disc": "Resident Evil 4 Bonus Disc AUS",
+		"ID": "D4BU01",
+		"DEntries": 1,
+		"Demos": "Movies only – >",
+		"PEntries": 7,
+		"Previews": "Resident Evil 4, Resident Evil 0, Resident Evil, Resident Evil 2, Resident Evil 3, Resident Evil – CODE: Veronica X, Making of Resident Evil 4"
+	},{
+		"Disc": "Resident Evil 4 Bonus Disc DEU",
+		"ID": "D4BD01",
+		"DEntries": 2,
+		"Demos": "Metroid Prime 2: Echoes (v.237) (blank “New Text Document.txt”), Disk seems to be based off EUR Version 14 disk",
+		"PEntries": 4,
+		"Previews": "Making of Resident Evil 4 (subtitled), Resident Evil 4, Resident Evil 0, Resident Evil"
+	},{
+		"Disc": "Phantasy Star Online Episode I & II Trial Edition JP",
+		"ID": "DPOJ8P",
+		"DEntries": 3,
+		"Demos": "Phantasy Star Online Episode I & II Demo, PSO Local Multiplayer code: 80194F40 4182002C, Nights into Dreams Score Attack Mini Game (GBA) (located on disc) (psoman.gba)",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Phantasy Star Online Episode III - C.A.R.D. Revolution Trial Edition JP",
+		"ID": "DPSJ8P",
+		"DEntries": 5,
+		"Demos": "Phantasy Star Online Episode III - C.A.R.D. Revolution Demo, Chao Garden (GBA) (located on disc) (Chao.gba), Nights into Dreams Score Attack Mini Game (GBA) (located on disc) (Nights.gba), Nights into Dreams Mini Game (Score Attack) (GBA) (located on disc) (psoman.gba), Minna de Puyo Puyo Endless Version Mini Game (GBA) (located on disc) (puyo_j.gba)",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Pokemon Channel Bangumi Kakuchou Pack JP",
+		"ID": "D56J01",
+		"DEntries": 1,
+		"Demos": "Movies only – >",
+		"PEntries": 1,
+		"Previews": "Pokemon (various)"
+	},{
+		"Disc": "Pokemon Colosseum Kakuchou Disc JP",
+		"ID": "PCKJ01",
+		"DEntries": 2,
+		"Demos": "Pokemon Colosseum Demo (GBA connectivity), Pokemon Channel Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Pokemon Colosseum Nintendo Tokusei Disc Special Disc JP",
+		"ID": "PCSJ01",
+		"DEntries": 1,
+		"Demos": "Pokemon Colosseum Demo (GBA connectivity)",
+		"PEntries": 7,
+		"Previews": "Pokemon Box: Ruby and Sapphire, Donkey Konga, Mario & Luigi RPG (Mario & Luigi: Superstar Saga), Super Donkey Kong (Donkey Kong Country), F-Zero: Falcon Densetsu (F-Zero: GP Legend), Mario Kart: Double Dash!!, Mario Party 5"
+	},{
+		"Disc": "Pokemon Colosseum Bonus Disc USA",
+		"ID": "PC6E01",
+		"DEntries": 2,
+		"Demos": "Jirachi Special Gift (Berry Program Update), “(can enable debug by running tgc on its own)”",
+		"PEntries": 2,
+		"Previews": "Pokemon Colosseum, Pokemon: Jirachi—Wish Maker"
+	},{
+		"Disc": "Star Wars Rogue Squadron II Demo JP",
+		"ID": "DSWJ13",
+		"DEntries": 1,
+		"Demos": "Star Wars Rogue Squadron II: Rogue Leader Demo",
+		"PEntries": 4,
+		"Previews": "Teaser, Making Of, Trailer, not sure, it’s all in japanese"
+	},{
+		"Disc": "Star Wars Rogue Squadron III: Rebel Strike Limited Edition Preview Disc USA",
+		"ID": "DLSE64",
+		"DEntries": 4,
+		"Demos": "Star Wars Rogue Squadron III: Rebel Strike Demo, Star Wars (1983 Arcade Game), Gladius (hidden), https://www.ign.com/articles/2003/08/01/rebel-strike-bonus-disc",
+		"PEntries": 3,
+		"Previews": "Star Wars Rebel Strike Artwork Gallery, Gladius Trailer, Star Wars Rebel Strike Trailer"
+	},{
+		"Disc": "Star Wars Rogue Squadron III: Rebel Strike Limited Edition Preview Disc EUR",
+		"ID": "DLSP64",
+		"DEntries": 2,
+		"Demos": "Star Wars Rogue Squadron III: Rebel Strike Demo, Star Wars (1983 Arcade Game)",
+		"PEntries": 3,
+		"Previews": "Star Wars Rebel Strike Trailer, Star Wars Rebel Strike Artwork Gallery, Gladius Trailer"
+	},{
+		"Disc": "The Legend of Zelda Collector's Edition USA",
+		"ID": "PZLE01",
+		"DEntries": 5,
+		"Demos": "The Legend of Zelda: Wind Waker Demo, The Legend of Zelda (NES), The Legend of Zelda II: The Adventure of Link (NES), The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 2,
+		"Previews": "The Legend of Zelda – A Retrospective, The Legend of Zelda: Wind Waker Special Movie"
+	},{
+		"Disc": "The Legend of Zelda Collector's Edition EUR",
+		"ID": "PZLP01",
+		"DEntries": 5,
+		"Demos": "The Legend of Zelda: Wind Waker Demo, The Legend of Zelda (NES), The Legend of Zelda II: The Adventure of Link (NES), The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 2,
+		"Previews": "The Legend of Zelda – A Retrospective, The Legend of Zelda: Wind Waker Special Movie"
+	},{
+		"Disc": "Zelda no Densetsu Collection JP",
+		"ID": "PZLJ01",
+		"DEntries": 5,
+		"Demos": "Zelda no Densetsu: Kaze no Takuto (The Legend of Zelda: Wind Waker) Demo, Zelda no Densetsu (The Legend of Zelda) (NES), Zelda no Densetsu II: Rinku no B?ken (Zelda II: The Adventure of Link) (NES), Zelda no Densetsu: Toki no Okarina (The Legend of Zelda: Ocarina of Time) (N64), Zelda no Densetsu: Mujura no Kamen (The Legend of Zelda: Majora’s Mask) (N64)",
+		"PEntries": 2,
+		"Previews": "Zelda no Densetsu Retrospective (The Legend of Zelda – A Retrospective), Zelda no Densetsu Special Movie (The Legend of Zelda: Wind Waker Special Movie)"
+	},{
+		"Disc": "The Legend of Zelda Ocarina of Time & Master Quest USA",
+		"ID": "D43E01",
+		"DEntries": 2,
+		"Demos": "The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 7,
+		"Previews": "The Legend of Zelda: Wind Waker, Metroid Prime, F-Zero GX, 1080 Avalanche, Wario World, Hot Clips, The Legend of Zelda: A Link to the Past"
+	},{
+		"Disc": "The Legend of Zelda Ocarina of Time & Master Quest EUR",
+		"ID": "D43P01",
+		"DEntries": 2,
+		"Demos": "The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 7,
+		"Previews": "The Legend of Zelda: Wind Waker, Metroid Prime, F-Zero GX, 1080 Avalanche, Wario World, Hot Clips, The Legend of Zelda: A Link to the Past"
+	},{
+		"Disc": "The Legend of Zelda Ocarina of Time & Master Quest AUS",
+		"ID": "D43U01",
+		"DEntries": 2,
+		"Demos": "The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 3,
+		"Previews": "Metroid Prime, Hot Clips, The Legend of Zelda: A Link to the Past"
+	},{
+		"Disc": "The Legend of Zelda Ocarina of Time & Master Quest KOR",
+		"ID": "D43W01",
+		"DEntries": 2,
+		"Demos": "The Legend of Zelda: Ocarina of Time (N64), The Legend of Zelda: Majora’s Mask (N64)",
+		"PEntries": 5,
+		"Previews": "The Legend of Zelda: Wind Waker, Metroid Prime, F-Zero GX, 1080 Avalanche, Wario World"
+	},{
+		"Disc": "Zelda no Densetsu Toki no Okarina GC JP",
+		"ID": "D43J01",
+		"DEntries": 2,
+		"Demos": "Zelda no Densetsu: Toki no Okarina (The Legend of Zelda: Ocarina of Time) (N64), Zelda no Densetsu: Toki no Okarina Ura (The Legend of Zelda: Master Quest) (N64)",
+		"PEntries": 12,
+		"Previews": "Mario Party 4, biohazard 0 (Resident Evil 0), Kinnikuman Nisei New Generation vs. Legends (Ultimate Muscle: Legends vs. New Generation), Mr. Driller Drill Land, F-Zero GX, biohazard 4 (Resident Evil 4), Dead Phoenix (Cancelled), Viewtiful Joe, P.N.03, Killer7, Zelda no Densetsu: Four Swords+ (The Legend of Zelda: Four Swords Adventures), Final Fantasy Tactics Advance"
+	},{
+		"Disc": "2002 FIFA World Cup ? JP",
+		"ID": "DFIJ",
+		"DEntries": 1,
+		"Demos": "2002 FIFA World Cup Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Baten Kaitos - Eternal Wings and the Lost Ocean Special Experience Disc JP",
+		"ID": "D66JAF",
+		"DEntries": 1,
+		"Demos": "Baten Kaitos: Eternal Wings and the Lost Ocean Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Beach Spikers: Virtua Beach Volleyball ? JP",
+		"ID": "DBSJ",
+		"DEntries": 1,
+		"Demos": "Beach Spikers: Virtua Beach Volleyball Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Billy Hatcher and the Giant Egg Demo EUR",
+		"ID": "DEZP8P",
+		"DEntries": 1,
+		"Demos": "Billy Hatcher and the Giant Egg Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Capcom vs. SNK 2 EO Demo JP",
+		"ID": "DEOJ08",
+		"DEntries": 1,
+		"Demos": "Capcom vs. SNK 2 EO Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Disney Magical Park Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Doubutsu Bancho (Cubivore) Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "Doubutsu Bancho (Cubivore) Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Donkey Konga 2: Hit Song Parade (Donkey Konga 2) Demo JP",
+		"ID": "DY2J",
+		"DEntries": 1,
+		"Demos": "Donkey Konga 2: Hit Song Parade (Donkey Konga 2) Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Donkey Konga 3: Tabehoudai! Haru Mogitate 50-kyoku (Donkey Konga 3) Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "Donkey Konga 3: Tabehoudai! Haru Mogitate 50-kyoku (Donkey Konga 3) Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Dragon Drive - D-Masters Shot Anime Disc JP",
+		"ID": "PD5JB2",
+		"DEntries": 1,
+		"Demos": "Movies only – >",
+		"PEntries": 2,
+		"Previews": "Dragon Drive - D-Masters Shot Anime Disc, (start = pause)"
+	},{
+		"Disc": "Kidou Senshi Gundam – Senshitachi no Kiseki Special Disc JP",
+		"ID": "DGAJB2",
+		"DEntries": 1,
+		"Demos": "Kidou Senshi Gundam – Senshitachi no Kiseki Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "FIFA Road to World Cup ? JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Mobile Suit Gundam Warrior’s Trajectory Kadokawa Shoten Union Planning) Special Disc JP",
+		"ID": "GKCJ",
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Kinnikuman II (Ultimate Muscle II) Event Disc JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Luigi’s Mansion Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "Luigi’s Mansion (Disc is retail but has a demo label)",
+		"PEntries": 1,
+		"Previews": "<-- (Retail disc)"
+	},{
+		"Disc": "Homeland Test Disc JP",
+		"ID": "PHEJ91",
+		"DEntries": 1,
+		"Demos": "Homeland Demo",
+		"PEntries": 0
+	},{
+		"Disc": "Mario Party 4 Event Disc JP",
+		"ID": "DMPJ",
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Metal Gear Solid - The Twin Snakes -Special Disc- JP",
+		"ID": "PGSJ01",
+		"DEntries": 1,
+		"Demos": "Metal Gear (NES) (Japan)",
+		"PEntries": 1,
+		"Previews": "Special Metal Gear Solid movie"
+	},{
+		"Disc": "Metroid Prime 2 Echoes Bonus Disc USA",
+		"ID": "P2ME01",
+		"DEntries": 1,
+		"Demos": "Metroid Prime 2: Echoes Demo",
+		"PEntries": 4,
+		"Previews": "Metroid Prime 2: Echoes Preview, Metroid Prime 2: Echoes Art Gallery, The Metroid Chronicle, Metroid Prime 2: Echoes Trailer"
+	},{
+		"Disc": "Naruto: Clash of Ninja 2 Demo USA",
+		"ID": "DNUEDA",
+		"DEntries": 1,
+		"Demos": "Naruto: Clash of Ninja 2 Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Naruto Event Disc JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Naruto 3 Tournament Event JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Naruto 4 Tournament Event JP",
+		"ID": "G4NJ-A",
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "NBA Courtside 2002 Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "P.N.03 Trial Edition EUR",
+		"ID": "DPNP08",
+		"DEntries": 1,
+		"Demos": "P.N.03 Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Ribbit King Plus! Bonus Disc USA",
+		"ID": "GKREB2",
+		"DEntries": 1,
+		"Demos": "Movies only – >",
+		"PEntries": 1,
+		"Previews": "Ribbit King Plus! Movie (All movies are on disc, but inaccessible?)"
+	},{
+		"Disc": "Rune II (Lost Kingdoms II) Demo JP",
+		"ID": "DR2JCQ",
+		"DEntries": 1,
+		"Demos": "Rune II (Lost Kingdoms II) Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "SD Gundam Gashapon Wars Demo JP",
+		"ID": "PGPJB2",
+		"DEntries": 1,
+		"Demos": "SD Gundam: Gashapon Wars Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Soulcalibur II Demo USA",
+		"ID": "DRSEAF",
+		"DEntries": 1,
+		"Demos": "Soulcalibur II Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "SSX Tricky Demo JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "SSX Tricky Demo",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Super Monkey Ball 2 Demo JP",
+		"ID": "DM2J8P",
+		"DEntries": 1,
+		"Demos": "Super Monkey Ball 2 Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "The Tower of Druaga Promo JP",
+		"ID": "PKBJ01",
+		"DEntries": 1,
+		"Demos": "Tower of Druaga (NES)",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Tom Clancy’s Splinter Cell Demo EUR",
+		"ID": "DCEP41",
+		"DEntries": 1,
+		"Demos": "Tom Clancy’s Splinter Cell Demo (GBA-link assist play)",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "Viewtiful Joe Promo EUR",
+		"ID": "DVJP08",
+		"DEntries": 1,
+		"Demos": "Viewtiful Joe Demo",
+		"PEntries": 1,
+		"Previews": "<-- Game Only"
+	},{
+		"Disc": "WWE WrestleMania X8 ? JP",
+		"ID": "DW3J",
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
+	},{
+		"Disc": "Zoids Versus III Tournament Event JP",
+		"ID": 0,
+		"DEntries": 1,
+		"Demos": "?",
+		"PEntries": 1,
+		"Previews": "?"
 	}
 ]
