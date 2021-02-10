@@ -14,17 +14,19 @@
 
 A simple html browser is included to assist in searching and sorting through the list.
 
-**Download the latest release here.**
+## Download
+
+**Find the latest release here.**
 
 https://github.com/re-cache/iddlist/releases
 
-Directly download the latest 'sheet' (iddlist_.67.ods) using this link.
+Or directly download the latest `sheet` (iddlist_.67.ods) using this link.
 
-
+https://github.com/re-cache/iddlist/raw/main/iddlist_.67.ods
 
 Or directly download the latest `.zip` which includes the HTML browser using this link.
 
-
+https://github.com/re-cache/iddlist/releases/download/0.67/iddlist_v.67.zip
 
 ![iddlist screenshot](assets/idd_browser.png)
 
