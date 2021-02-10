@@ -16,11 +16,7 @@ A simple html browser is included to assist in searching and sorting through the
 
 ## Download
 
-**Find the latest release here.**
-
-https://github.com/re-cache/iddlist/releases
-
-Or directly download the latest `sheet` (iddlist_.67.ods) using this link.
+Download the latest catalogue directly (`iddlist_.67.ods`) using this link.
 
 https://github.com/re-cache/iddlist/raw/main/iddlist_.67.ods
 
@@ -28,6 +24,12 @@ Or directly download the latest `.zip` which includes the HTML browser using thi
 
 https://github.com/re-cache/iddlist/releases/download/0.67/iddlist_v.67.zip
 
+Find other releases here.
+
+https://github.com/re-cache/iddlist/releases
+
+
+### HTML Browser
 ![iddlist screenshot](assets/idd_browser.png)
 
 **To use the browser,**
@@ -37,6 +39,12 @@ https://github.com/re-cache/iddlist/releases/download/0.67/iddlist_v.67.zip
   * https://www.python.org/downloads/
 
 * Run `Start IDDlist browser.bat` after extracting the `.zip`.
+
+&nbsp;
+
+## Overview
+
+IDDlist 
 
 
 ## IDDlist To-do
