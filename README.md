@@ -45,10 +45,20 @@ https://github.com/re-cache/iddlist/releases
 
 &nbsp;
 
-## Overview
+## Did You Know?
 
-IDDlist 
+On the GameCube demo discs,
 
+* There are over 200 Mario games and trailers
+* There are over 55 Metroid games and trailers
+  * North America and PAL-region discs hold 45 of them
+  * Japanese discs hold 13 of them
+  * Korean discs hold 1 of them
+* There are 46 recorded Naruto games and trailers
+  * Japanese discs hold 43 of them
+  * North American discs hold the other 3
+
+&nbsp;
 
 ## IDDlist To-do
 
